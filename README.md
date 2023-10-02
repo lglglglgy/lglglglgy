@@ -18,17 +18,31 @@ Hello there! 👋 I am a second-year university student with a passion for compu
 
 - **Interests:** I am enthusiastic about exploring new technologies and challenges in the field of high-performance computing. Additionally, I have a strong passion for researching and experimenting with large-scale AI models.
 
-I am dedicated to continuous learning and growth, constantly enhancing my skills and knowledge. If you share similar interests or have any advice or collaboration opportunities, feel free to reach out. Thank you! 😊
+I am dedicated to continuous learning and growth, constantly enhancing my skills and knowledge. If you share similar interests or have any advice or collaboration opportunities, feel free to reach out. You can contact me via:
+
+- Email: [2661896437@qq.com](mailto:2661896437@qq.com)
+- QQ: 2661896437
+- WeChat: wylgbz
+
+## Recommended Projects
+
+Here are some projects I recommend you to check out:
+
+| Project Name                                             | GitHub Repository                                         |
+|---------------------------------------------------------|------------------------------------------------------------|
+| Flypen (Backend)                                         | [lglglglgy/flypen](https://github.com/lglglglgy/flypen)   |
+| Flypen Frontend                                          | [lglglglgy/flypen-frontend](https://github.com/lglglglgy/flypen-frontend) |
+
+Thank you! 😊
+
+<div align="center">
 
  ![lglglglgy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lglglglgy&theme=tokyonight&theme=icegray&border_radius=8) 
 
-
+</div>
 
 <hr>
 
-
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> MY PROJECT
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/lglglglgy/lglglglgy/output/github-contribution-grid-snake.svg)
 
