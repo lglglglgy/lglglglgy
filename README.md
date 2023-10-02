@@ -26,12 +26,14 @@ I am dedicated to continuous learning and growth, constantly enhancing my skills
 ## Recommended Projects
 
 Here are some projects I recommend you to check out:
+<div align="center">
 
 | Project Name                                             | GitHub Repository                                         |
 |---------------------------------------------------------|------------------------------------------------------------|
 | Flypen (Backend)                                         | [lglglglgy/flypen](https://github.com/lglglglgy/flypen)   |
 | Flypen Frontend                                          | [lglglglgy/flypen-frontend](https://github.com/lglglglgy/flypen-frontend) |
 
+</div>
 Thank you! 😊
 
 <div align="center">
