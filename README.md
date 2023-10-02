@@ -21,8 +21,7 @@ Hello there! 👋 I am a second-year university student with a passion for compu
 I am dedicated to continuous learning and growth, constantly enhancing my skills and knowledge. If you share similar interests or have any advice or collaboration opportunities, feel free to reach out. You can contact me via:
 
 - Email: [2661896437@qq.com](mailto:2661896437@qq.com)
-- QQ: 2661896437
-- WeChat: wylgbz
+
 
 ## Recommended Projects
 
