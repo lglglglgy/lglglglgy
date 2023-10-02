@@ -1,6 +1,6 @@
 
 
-![Banner GitHub](7a75c99d67d77b0dab2cafd5116464c5.gif)
+![Banner GitHub](lglglglgy.gif)
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flglglglgy%2Flglglglgy&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
