@@ -32,7 +32,7 @@ Here are some projects I recommend you to check out:
 | Project Name                                             | GitHub Repository                                         |
 |---------------------------------------------------------|------------------------------------------------------------|
 | Flypen (Backend)                                         | [lglglglgy/flypen](https://github.com/lglglglgy/flypen)   |
-| Flypen Frontend                                          | [lglglglgy/flypen-frontend](https://github.com/lglglglgy/flypen-frontend) |
+| Electrical-switches                                          | [lglglglgy/Electrical-switches](https://github.com/lglglglgy/Electrical-switches |
 | FPGA_Smart_Car                                           | [lglglglgy/FPGA_smart_car](https://github.com/lglglglgy/FPGA_smart_car) |
 
 </div>
