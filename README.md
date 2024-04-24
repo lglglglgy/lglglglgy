@@ -37,7 +37,7 @@ Here are some projects I recommend you to check out:
 
 </div>
 Thank you! 😊
-
+In the recent ASC2024, we won 6th place in the global finals (rank 6)
 <div align="center">
 
  ![lglglglgy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lglglglgy&theme=tokyonight&theme=icegray&border_radius=8) 
