@@ -37,7 +37,7 @@ Here are some projects I recommend you to check out:
 
 </div>
 
-In recent work, I have been actively submitting code to the OpenBLAS project, with contributions primarily centered around performance optimizations on RISC-V using RVV (RISC-V Vector Extension).
+In recent work, I have been actively submitting code to the [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) project, with contributions primarily centered around performance optimizations on RISC-V using RVV (RISC-V Vector Extension).
 
 Detailed contributions are available on my other account [guoyuanplct](https://github.com/guoyuanplct) .
 <div align="center">
