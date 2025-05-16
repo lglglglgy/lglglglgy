@@ -36,8 +36,20 @@ Here are some projects I recommend you to check out:
 | FPGA_Smart_Car                                           | [lglglglgy/FPGA_smart_car](https://github.com/lglglglgy/FPGA_smart_car) |
 
 </div>
-Thank you! 😊
-In the recent ASC2024, we won 6th place in the global finals (rank 6)
+
+In recent work, I have been actively submitting code to the OpenBLAS project, with contributions primarily centered around performance optimizations on RISC-V using RVV (RISC-V Vector Extension).
+
+Detailed contributions are available on my other account [guoyuanplct](https://github.com/guoyuanplct) .
+<div align="center">
+  
+| PR contributions                                        | 
+|---------------------------------------------------------|
+| [Optimizing the Implementation of GEMV on the RISC-V V Extension](https://github.com/OpenMathLib/OpenBLAS/pull/5211)                                        |
+| [Optimized RVV_ZVL256B Implementation of zgemv_n ](https://github.com/OpenMathLib/OpenBLAS/pull/5245)                                      | 
+| [Fixed the bug of openblas_utest_ext failing in c/zgemv](https://github.com/OpenMathLib/OpenBLAS/pull/5262)                                           |
+|[Added support for omatcopy on RISCV64_ZVL256B](https://github.com/OpenMathLib/OpenBLAS/pull/5265)|
+  
+  </div>
 <div align="center">
 
  ![lglglglgy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lglglglgy&theme=tokyonight&theme=icegray&border_radius=8) 
